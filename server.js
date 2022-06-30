@@ -10,6 +10,8 @@ app.db = router.db;
 
 const rules = auth.rewriter({
   users: 600,
+  tecs: 664,
+  experience: 640,
 });
 
 app.use(cors());
@@ -20,4 +22,5 @@ app.listen(port);
 
 console.log("Server is running on port:", port);
 
-/* A senha do Kenzinho é 123456 */
+/* A senha do kenzinho é 123456 */
+/* A senha do aluno é kenzinho */
