@@ -8,7 +8,7 @@ Este é o backend da aplicação Portfólio - API -> Seu objetivo é fornecer al
 <h2 align="center">Endpoints</h2>
 
 <p>A presente API tem um total de 10 endpoints.</p>
-<p>O url de base desta API é: http://localhost:3001 </p><br/>
+<p>O url de base desta API é: https://api-json-server-base.herokuapp.com </p><br/>
 
 <h2 align="center">Rotas Públicas</h2><br/>
 
