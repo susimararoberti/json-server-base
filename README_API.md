@@ -24,7 +24,7 @@ Este é o backend da aplicação Portfólio - API -> Seu objetivo é fornecer al
 		"id": 1
 	}
 ]</span>
-<p>Caso não haja nenhuma tecnologia cadastrada e respost será de um array vazio: [ ] </p><br>
+<p>Caso não haja nenhuma tecnologia cadastrada a resposta será de um array vazio: [ ] </p><br>
 
 <h2 align="center">Rotas de Cadastro e Login</h2><br/>
 
